@@ -1,0 +1,1 @@
+A Tabs Navigation system using pure JavaScript. Clicking on a tab dynamically updates the active class, and the content section responds dynamically, rendering the relevant content for the selected tab.Ï
